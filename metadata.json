@@ -1,0 +1,6 @@
+{
+  "name": "Aura Medical & Aesthetic Clinic DHA Lahore",
+  "description": "Prestige medical, cosmetic surgery, dermatology, and aesthetic medicine clinic website featuring seamless appointment booking, treatment showcases, and DHA Lahore practice details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
